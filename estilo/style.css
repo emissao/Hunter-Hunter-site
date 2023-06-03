@@ -53,13 +53,13 @@ h2{
 h3{
     color: orangered;
     padding: 5px;
+}
+h3 > p{
     text-align: center;
 }
-
 header > h1{
     font-size: 4vw;
-    padding-top: 10px;
-    
+    padding-top: 10px;  
 }
 header > p{
     padding-bottom: 10px;
